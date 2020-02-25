@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+
+logs/
+db/
+api/*/migrations/*
+!api/*/migrations/__init__.py
+
+.deploy_env
+deploy.yml
+nginx.conf
+
+fabfile.py
+
+api/static/*
+api/media/*

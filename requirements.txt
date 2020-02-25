@@ -1,0 +1,11 @@
+Pillow
+Django
+psycopg2
+gunicorn
+redis
+django-redis
+djangorestframework
+django-filter
+drf-yasg
+djangorestframework-simplejwt
+django-cors-headers
